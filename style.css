@@ -31,3 +31,9 @@ h2{
     border: 2px solid magenta;
     transform: rotate(20deg);
 }
+/* Position */
+#box-3{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
